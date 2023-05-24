@@ -58,7 +58,7 @@ dt.predict([[5,6]])
 ![image](https://github.com/SOMEASVAR/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93434149/28c6a7c9-e262-4ebc-ae4a-bdb804234370)
 
 ## data.info():
-![image](https://github.com/SOMEASVAR/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93434149/40f6381c-96d0-44ac-a771-c2404d9a134a)
+![image](https://github.com/SOMEASVAR/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93434149/a8e42ffb-8c98-4499-8d78-72cf7232af96)
 
 ## isnull() and sum():
 ![image](https://github.com/SOMEASVAR/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/93434149/63bcba94-bf2c-4a8d-98db-b3ad0e485a10)
